@@ -2,6 +2,8 @@
 
 # GPT-2 Reproduction — Technical Report (English Version)
 
+
+- [report(zh)](report(zh).pdf)         
 ## **Section 1: Model Architecture**
 
 ### 1.1 Model Definition
